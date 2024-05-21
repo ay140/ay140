@@ -27,6 +27,8 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B)
+
 
 ## 🔗 Connect with me
 
