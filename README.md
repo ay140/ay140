@@ -7,7 +7,7 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 - 👯 I’m looking to collaborate on projects related to software development and financial technology.
 - 🤔 I’m looking for help with advanced C++ patterns and best practices.
 - 💬 Ask me about coding, engineering, and financial markets.
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 📫 How to reach me: [Amarzouk@student.42abudhabi.ae]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarzouk140&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarzouk140&layout=compact&theme=radical)
