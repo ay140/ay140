@@ -9,7 +9,7 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 - 💬 Ask me about coding, engineering, and financial markets.
 - 📫 How to reach me: [Your Email or Social Media Links]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarzouk140&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarzouk140&layout=compact&theme=radical)
 
 ## 🛠️ My favorite tools
