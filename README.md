@@ -7,7 +7,7 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 - 👯 I’m looking to collaborate on projects related to software development and financial technology.
 - 🤔 I’m looking for help with advanced C++ patterns and best practices.
 - 💬 Ask me about coding, engineering, and financial markets.
-- 📫 How to reach me: [Amarzouk@student.42abudhabi.ae]
+- 📫 How to reach me: amarzouk@student.42abudhabi.ae
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarzouk140&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarzouk140&layout=compact&theme=radical)
@@ -16,6 +16,7 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 
 ### Programming Languages
 
+![C](https://img.shields.io/badge/-C-A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-00599C)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2)
 ![Python](https://img.shields.io/badge/-Python-3776AB)
@@ -29,6 +30,4 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/-Website-brightgreen)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/amarzouk140/)
