@@ -2,7 +2,7 @@
 
 I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and financial markets.
 
-- 🔭 I’m currently working on CPP modules, inception, and webserv (42 projects).
+- 🔭 I’m currently working on inception, and webserv (42 projects).
 - 🌱 I’m currently learning Dart, Python, and HTML.
 - 👯 I’m looking to collaborate on projects related to software development and financial technology.
 - 🤔 I’m looking for help with advanced C++ patterns and best practices.
