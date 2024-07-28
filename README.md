@@ -9,16 +9,16 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 - 💬 Ask me about coding, engineering, and financial markets.
 - 📫 How to reach me: amarzouk@student.42abudhabi.ae
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarzouk140&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ay140&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarzouk140&layout=compact&theme=radical)
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amarzouk140&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ay140&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amarzouk140&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ay140&theme=radical)](https://git.io/streak-stats)
 
 ## 🛠️ My favorite tools
 
