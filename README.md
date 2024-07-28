@@ -10,7 +10,7 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 - 📫 How to reach me: amarzouk@student.42abudhabi.ae
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ay140&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarzouk140&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay140&layout=compact&theme=radical)
 
 ## 🏆 GitHub Profile Trophy
 
