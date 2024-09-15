@@ -3,9 +3,9 @@
 I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and financial markets.
 
 - 🔭 I’m currently working on ft_transcendence.
-- 🌱 I’m currently learning Dart, Python, and HTML.
+- 🌱 I’m currently learning Dart, Python, and JavaScript.
 - 👯 I’m looking to collaborate on projects related to software development and financial technology.
-- 🤔 I’m looking for help with advanced C++ patterns and best practices.
+- 🤔 I’m looking for help with advanced Django framework patterns and best practices.
 - 💬 Ask me about coding, engineering, and financial markets.
 - 📫 How to reach me: amarzouk@student.42abudhabi.ae
 
