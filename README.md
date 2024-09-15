@@ -29,7 +29,7 @@ I'm Ayman Marzouk, a Software Developer who loves coding, engineering, and finan
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+![CSS](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=css&logoColor=white)
 ### Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
