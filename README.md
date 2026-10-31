@@ -2,7 +2,7 @@
 
 **Founder, WealthBridge Consultants · Full-Stack Software Engineer** · Abu Dhabi, UAE
 
-I build production software for finance and education. I run WealthBridge Consultants, a UAE consultancy, and I lead the engineering of its products end to end: architecture, payments, security, infrastructure and delivery.
+I build production software for finance, education and AI. I run WealthBridge Consultants, a UAE consultancy, and I lead the engineering of its products end to end: architecture, payments, security, infrastructure and delivery.
 
 My background spans software engineering (42 Abu Dhabi), aviation and business administration, which shapes how I work: safety-minded, process-driven and focused on what the business needs.
 
@@ -11,13 +11,14 @@ My background spans software engineering (42 Abu Dhabi), aviation and business a
 ## What I'm building
 
 **WealthBridge Learning Platform** · *private*
-A bilingual (Arabic / English) learning platform for trading and finance education, with courses, market insights, subscriptions and one-to-one coaching.
+A bilingual (Arabic / English) learning platform for trading, finance and AI education, with courses, market insights, subscriptions and one-to-one coaching.
 
 - **Stack:** Next.js, TypeScript, PostgreSQL (Prisma), Redis, Tailwind CSS, deployed on Vercel
 - **Payments:** Stripe one-time and subscription billing, Ziina, and Tabby / Tamara instalments, with VAT-ready tax invoices
 - **Security:** role-based admin with owner-only controls, two-factor authentication, strict CSP, append-only financial records
 - **Quality:** test-driven development with Vitest, Playwright end-to-end and accessibility tests, CI on every change
 - **Product:** full RTL support, HLS video lessons, Telegram integration, admin dashboard, privacy and data-protection tooling
+- **Next:** AI courses teaching practical, hands-on use of AI tools for professionals and businesses in the region
 
 **WealthBridge Billing** · *private*
 An internal tool for client engagements: statements of work, contracts, invoices and payments, running locally and accessible from iPhone and iPad on the office network.
@@ -83,4 +84,4 @@ Selected work from the 42 Abu Dhabi curriculum, a peer-to-peer software engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarzouk140/)
 [![Email](https://img.shields.io/badge/ayman@wbridge.ae-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayman@wbridge.ae)
 
-Open to conversations about fintech, education technology and building software in the UAE.
+Open to conversations about fintech, AI, education technology and building software in the UAE.
